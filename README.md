@@ -10,7 +10,7 @@
 
 ---
 # Wakatime Stats:
-![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@biratbc)
+<img src="https://wakatime.com/share/@biratbc/6ee60171-3bc8-44eb-ad25-96670e1d41b2.svg" alt="Wakatime Stats" width="400" height="200" style="display:block; margin:auto;">
 
 [![](https://visitcount.itsvg.in/api?id=BiratBC&icon=0&color=0)](https://visitcount.itsvg.in)
 

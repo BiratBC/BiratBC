@@ -10,7 +10,7 @@
 
 ---
 # Wakatime Stats:
-<img src="https://wakatime.com/share/@biratbc/6ee60171-3bc8-44eb-ad25-96670e1d41b2.svg" alt="Wakatime Stats" width="400" height="200" style="display:block; margin:auto;">
+<img src="https://wakatime.com/share/@biratbc/4bcf2159-be60-4c16-a948-e02a4bc26c23.svg" alt="Wakatime Stats" width="400" height="200" style="display:block; margin:auto;">
 
 [![](https://visitcount.itsvg.in/api?id=BiratBC&icon=0&color=0)](https://visitcount.itsvg.in)
 

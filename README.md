@@ -1,4 +1,11 @@
 <!--START_SECTION:waka-->
+
+```txt
+TypeScript   1 hr 19 mins    ██████████████▒░░░░░░░░░░   56.81 %
+Python       59 mins         ██████████▓░░░░░░░░░░░░░░   42.98 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
+```
+
 <!--END_SECTION:waka-->
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/birat.jpg) [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/birat-b-c-6849b827b/)

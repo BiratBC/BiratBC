@@ -5,6 +5,13 @@
 
 # Language Stats
 <!--START_SECTION:waka-->
+
+```txt
+TypeScript   1 hr 19 mins    ██████████████▒░░░░░░░░░░   56.81 %
+Python       59 mins         ██████████▓░░░░░░░░░░░░░░   42.98 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
+```
+
 <!--END_SECTION:waka-->
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=BiratBC&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>

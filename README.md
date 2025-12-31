@@ -1,4 +1,5 @@
-
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/birat.jpg) [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/birat-b-c-6849b827b/)
 # 💻 Tech Stack:
